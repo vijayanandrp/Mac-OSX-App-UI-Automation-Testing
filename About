@@ -1,0 +1,36 @@
+Author: Vijay Anand Pandian
+
+Contact: vijayanandrp@gmail.com
+
+Date:	27, January 2016
+
+Description:
+		This project is created for Mac OS X application automation as a standalone project for
+		coders/programmers in testing/QA domain.
+
+		Following are main features of this project:
+
+		1. Simple/Easy Framework for desktop automation using python
+		2. Using only open-sources without any paid software
+		3. Code and test cases should be easy to maintain
+		4. UI validation and UI content verification
+		5. Validating the backend process, while performing the UI changes
+
+
+
+Special Thanks: To my lead in my fist company and friends (AAMU).
+
+
+Follow the article link for installation:
+------------------------------------------
+http://vijay-anand-pandian.blogspot.in/2015/03/simple-automation-using-python-atomac.html
+or
+http://l34rn-p14y.blogspot.in/2014/11/simple-automation-using-python-atomac.html
+
+
+Enhancements that can be made (Future)
+========================================
+
+1. Email - logs and result
+2. XML conversion for easy understanding
+

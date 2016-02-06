@@ -1,0 +1,4 @@
+{
+  "test_cases" : "app_store.py",
+  "test_case_xl" : "app_store_ui_test.xlsx"
+}

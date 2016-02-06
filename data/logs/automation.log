@@ -1,0 +1,353 @@
+02/03/2016 10:24:10 PM - start_automation - INFO - 
+********************************************************************************
+
+02/03/2016 10:24:10 PM - start_automation - INFO - Starting main automation script
+02/03/2016 10:24:10 PM - os_utils - INFO - file found - /Volumes/HDD/PycharmProjects/mac_osx_desktop_application_automator/data/configurations/app_store_ui_test.json 
+02/03/2016 10:24:10 PM - start_automation - DEBUG - config_data {   u'test_case_xl': u'app_store_ui_test.xlsx', u'test_cases': u'app_store.py'}
+02/03/2016 10:24:10 PM - os_utils - INFO - file found - /Volumes/HDD/PycharmProjects/mac_osx_desktop_application_automator/data/test_case_xl/app_store_ui_test.xlsx 
+02/03/2016 10:24:10 PM - start_automation - DEBUG - Test cases = 
+ {   1234: {   'result': '', 'tc_desc': 'Open Program and close program.'},
+    1235: {   'result': '', 'tc_desc': 'Open Program and close program.'},
+    1236: {   'result': '', 'tc_desc': 'Open Program and close program.'},
+    1237: {   'result': '', 'tc_desc': 'Open Program and close program.'},
+    1238: {   'result': '', 'tc_desc': 'Open Program and close program.'},
+    1239: {   'result': '', 'tc_desc': 'Open Program and close program.'}}
+02/03/2016 10:24:10 PM - start_automation - INFO - copying the test cases excel file to result path 
+02/03/2016 10:24:16 PM - ui_routines - INFO - Bundle Id - com.apple.appstore is opened now
+02/03/2016 10:24:23 PM - start_automation - DEBUG - Result after execution - 
+ {   1234: {   'result': 1, 'tc_desc': 'Open Program and close program.'},
+    1235: {   'result': 0, 'tc_desc': 'Open Program and close program.'},
+    1236: {   'result': 1, 'tc_desc': 'Open Program and close program.'},
+    1237: {   'result': 0, 'tc_desc': 'Open Program and close program.'},
+    1238: {   'result': -1, 'tc_desc': 'Open Program and close program.'},
+    1239: {   'result': 1, 'tc_desc': 'Open Program and close program.'}} 
+02/03/2016 10:24:23 PM - os_utils - INFO - file found - /Volumes/HDD/PycharmProjects/mac_osx_desktop_application_automator/data/result/app_store_ui_test.xlsx 
+02/05/2016 10:12:24 AM - os_utils - INFO - crash files - ['appstore.crash'] 
+02/05/2016 10:17:50 AM - os_utils - INFO - crash files - ['appstore.crash'] 
+02/05/2016 10:18:14 AM - os_utils - DEBUG - crash files - ['appstore.crash'] 
+02/05/2016 10:18:31 AM - os_utils - DEBUG - crash files - ['appstore.crash'] 
+02/05/2016 10:18:32 AM - os_utils - DEBUG - crash files - ['appstore.crash'] 
+02/05/2016 10:18:32 AM - os_utils - DEBUG - crash files - ['appstore.crash'] 
+02/05/2016 10:18:32 AM - os_utils - DEBUG - crash files - ['appstore.crash'] 
+02/05/2016 10:18:41 AM - os_utils - DEBUG - crash files - ['appstore.crash'] 
+02/05/2016 10:18:51 AM - os_utils - INFO - crash files - ['appstore.crash'] 
+02/05/2016 10:19:02 AM - os_utils - INFO - crash files - ['appstore.crash'] 
+02/05/2016 10:20:56 AM - os_utils - INFO - Found crash files - ['appstore.crash'] 
+02/05/2016 10:20:56 AM - os_utils - INFO - App crash files - ['appstore.crash'] 
+02/05/2016 10:20:59 AM - os_utils - INFO - Found crash files - ['appstore.crash'] 
+02/05/2016 10:20:59 AM - os_utils - INFO - App crash files - ['appstore.crash'] 
+02/06/2016 09:17:30 AM - ui_routines - DEBUG - click point - (470.0, 92.5) 
+02/06/2016 09:17:35 AM - ui_routines - DEBUG - click point - (543.0, 92.5) 
+02/06/2016 09:17:40 AM - ui_routines - DEBUG - click point - (621.0, 92.5) 
+02/06/2016 09:17:45 AM - ui_routines - DEBUG - click point - (698.0, 92.5) 
+02/06/2016 09:17:50 AM - ui_routines - DEBUG - click point - (770.0, 92.5) 
+02/06/2016 09:26:32 AM - ui_routines - DEBUG - click point - (470.0, 92.5) 
+02/06/2016 09:26:37 AM - ui_routines - DEBUG - click point - (543.0, 92.5) 
+02/06/2016 09:26:42 AM - ui_routines - DEBUG - click point - (621.0, 92.5) 
+02/06/2016 09:26:47 AM - ui_routines - DEBUG - click point - (698.0, 92.5) 
+02/06/2016 09:26:52 AM - ui_routines - DEBUG - click point - (770.0, 92.5) 
+02/06/2016 09:27:14 AM - ui_routines - DEBUG - click point - (470.0, 92.5) 
+02/06/2016 09:51:24 AM - start_automation - INFO - 
+********************************************************************************
+
+02/06/2016 09:51:24 AM - start_automation - INFO - Starting main automation script
+02/06/2016 09:51:24 AM - os_utils - INFO - file found - /Volumes/HDD/PycharmProjects/mac_osx_desktop_application_automator/data/configurations/app_store_ui_test.json 
+02/06/2016 09:51:24 AM - start_automation - DEBUG - config_data 
+ {   u'test_case_xl': u'app_store_ui_test.xlsx', u'test_cases': u'app_store.py'}
+02/06/2016 09:51:24 AM - os_utils - INFO - file found - /Volumes/HDD/PycharmProjects/mac_osx_desktop_application_automator/data/test_case_xl/app_store_ui_test.xlsx 
+02/06/2016 09:51:24 AM - start_automation - DEBUG - Test cases = 
+ {   662249: {   'result': '',
+                'tc_desc': '1. Open App Store program\n2. Wait 30 seconds\n3. Close App Store Program\n4. Check any crashes found'},
+    662250: {   'result': '',
+                'tc_desc': '1. Open App Store program\n2. Click Featured icon\n3. Make sure page loads\n4. Close the App Store program'},
+    662251: {   'result': '',
+                'tc_desc': '2. Open App Store program\n2. Click Top Charts icon\n3. Make sure page loads\n4. Close the App Store program'},
+    662252: {   'result': '',
+                'tc_desc': '3. Open App Store program\n2. Click Categories icon\n3. Make sure page loads\n4. Close the App Store program'},
+    662253: {   'result': '',
+                'tc_desc': '4. Open App Store program\n2. Click Purchased icon\n3. Make sure page loads\n4. Close the App Store program'},
+    662254: {   'result': '',
+                'tc_desc': '5. Open App Store program\n2. Search some app name in search bar\n3. Make sure page loads\n4. Close the App Store program'}}
+02/06/2016 09:51:24 AM - start_automation - INFO - copying the test cases excel file to result path 
+02/06/2016 09:51:29 AM - ui_routines - INFO - Bundle Id - com.apple.appstore is opened now
+02/06/2016 09:51:59 AM - app_store - INFO - looking for crash after opening apps
+02/06/2016 09:51:59 AM - os_utils - DEBUG - crash files - ['appstore.crash'] 
+02/06/2016 09:51:59 AM - os_utils - INFO - App crash files - ['appstore.crash'] 
+02/06/2016 09:52:07 AM - ui_routines - INFO - Bundle Id - com.apple.appstore is opened now
+02/06/2016 09:52:37 AM - app_store - INFO - Clicking Featured icon in the app store
+02/06/2016 09:52:38 AM - app_store - INFO - No clicking object found
+02/06/2016 09:52:45 AM - ui_routines - INFO - Bundle Id - com.apple.appstore is opened now
+02/06/2016 09:53:15 AM - app_store - INFO - Clicking Featured icon in the app store
+02/06/2016 09:55:26 AM - start_automation - INFO - 
+********************************************************************************
+
+02/06/2016 09:55:26 AM - start_automation - INFO - Starting main automation script
+02/06/2016 09:55:26 AM - os_utils - INFO - file found - /Volumes/HDD/PycharmProjects/mac_osx_desktop_application_automator/data/configurations/app_store_ui_test.json 
+02/06/2016 09:55:26 AM - start_automation - DEBUG - config_data 
+ {   u'test_case_xl': u'app_store_ui_test.xlsx', u'test_cases': u'app_store.py'}
+02/06/2016 09:55:26 AM - os_utils - INFO - file found - /Volumes/HDD/PycharmProjects/mac_osx_desktop_application_automator/data/test_case_xl/app_store_ui_test.xlsx 
+02/06/2016 09:55:26 AM - start_automation - DEBUG - Test cases = 
+ {   662249: {   'result': '',
+                'tc_desc': '1. Open App Store program\n2. Wait 30 seconds\n3. Close App Store Program\n4. Check any crashes found'},
+    662250: {   'result': '',
+                'tc_desc': '1. Open App Store program\n2. Click Featured icon\n3. Make sure page loads\n4. Close the App Store program'},
+    662251: {   'result': '',
+                'tc_desc': '2. Open App Store program\n2. Click Top Charts icon\n3. Make sure page loads\n4. Close the App Store program'},
+    662252: {   'result': '',
+                'tc_desc': '3. Open App Store program\n2. Click Categories icon\n3. Make sure page loads\n4. Close the App Store program'},
+    662253: {   'result': '',
+                'tc_desc': '4. Open App Store program\n2. Click Purchased icon\n3. Make sure page loads\n4. Close the App Store program'},
+    662254: {   'result': '',
+                'tc_desc': '5. Open App Store program\n2. Search some app name in search bar\n3. Make sure page loads\n4. Close the App Store program'}}
+02/06/2016 09:55:26 AM - start_automation - INFO - copying the test cases excel file to result path 
+02/06/2016 09:55:31 AM - ui_routines - ERROR - Exception caught while opening app
+Traceback (most recent call last):
+  File "/Volumes/HDD/PycharmProjects/mac_osx_desktop_application_automator/lib/ui_routines.py", line 54, in open_app
+    app_ref = atomac.getAppRefByBundleId(bundle_id)
+  File "/Library/Python/2.7/site-packages/atomac/AXClasses.py", line 72, in getAppRefByBundleId
+    'running apps: %s' % bundleId))
+ValueError: Specified bundle ID not found in running apps: com.apple.appstore
+02/06/2016 09:55:36 AM - ui_routines - INFO - Bundle Id - com.apple.appstore is opened now
+02/06/2016 09:56:06 AM - app_store - INFO - Clicking Featured icon in the app store
+02/06/2016 09:57:27 AM - start_automation - INFO - 
+********************************************************************************
+
+02/06/2016 09:57:27 AM - start_automation - INFO - Starting main automation script
+02/06/2016 09:57:27 AM - os_utils - INFO - file found - /Volumes/HDD/PycharmProjects/mac_osx_desktop_application_automator/data/configurations/app_store_ui_test.json 
+02/06/2016 09:57:27 AM - start_automation - DEBUG - config_data 
+ {   u'test_case_xl': u'app_store_ui_test.xlsx', u'test_cases': u'app_store.py'}
+02/06/2016 09:57:27 AM - os_utils - INFO - file found - /Volumes/HDD/PycharmProjects/mac_osx_desktop_application_automator/data/test_case_xl/app_store_ui_test.xlsx 
+02/06/2016 09:57:27 AM - start_automation - DEBUG - Test cases = 
+ {   662249: {   'result': '',
+                'tc_desc': '1. Open App Store program\n2. Wait 30 seconds\n3. Close App Store Program\n4. Check any crashes found'},
+    662250: {   'result': '',
+                'tc_desc': '1. Open App Store program\n2. Click Featured icon\n3. Make sure page loads\n4. Close the App Store program'},
+    662251: {   'result': '',
+                'tc_desc': '2. Open App Store program\n2. Click Top Charts icon\n3. Make sure page loads\n4. Close the App Store program'},
+    662252: {   'result': '',
+                'tc_desc': '3. Open App Store program\n2. Click Categories icon\n3. Make sure page loads\n4. Close the App Store program'},
+    662253: {   'result': '',
+                'tc_desc': '4. Open App Store program\n2. Click Purchased icon\n3. Make sure page loads\n4. Close the App Store program'},
+    662254: {   'result': '',
+                'tc_desc': '5. Open App Store program\n2. Search some app name in search bar\n3. Make sure page loads\n4. Close the App Store program'}}
+02/06/2016 09:57:27 AM - start_automation - INFO - copying the test cases excel file to result path 
+02/06/2016 09:57:32 AM - ui_routines - INFO - Bundle Id - com.apple.appstore is opened now
+02/06/2016 09:58:02 AM - app_store - INFO - looking for crash after opening apps
+02/06/2016 09:58:02 AM - os_utils - DEBUG - crash files - ['appstore.crash'] 
+02/06/2016 09:58:02 AM - os_utils - INFO - App crash files - ['appstore.crash'] 
+02/06/2016 09:58:09 AM - ui_routines - INFO - Bundle Id - com.apple.appstore is opened now
+02/06/2016 09:58:39 AM - app_store - INFO - Clicking Featured icon in the app store
+02/06/2016 09:58:40 AM - app_store - INFO - No clicking object found
+02/06/2016 09:58:47 AM - ui_routines - INFO - Bundle Id - com.apple.appstore is opened now
+02/06/2016 09:59:17 AM - app_store - INFO - Clicking Featured icon in the app store
+02/06/2016 09:59:18 AM - ui_routines - DEBUG - click point - (543.0, 92.5) 
+02/06/2016 09:59:31 AM - ui_routines - INFO - Bundle Id - com.apple.appstore is opened now
+02/06/2016 10:00:01 AM - app_store - INFO - Clicking Featured icon in the app store
+02/06/2016 10:00:02 AM - ui_routines - DEBUG - click point - (621.0, 92.5) 
+02/06/2016 10:00:14 AM - ui_routines - INFO - Bundle Id - com.apple.appstore is opened now
+02/06/2016 10:00:44 AM - app_store - INFO - Clicking Featured icon in the app store
+02/06/2016 10:00:45 AM - ui_routines - DEBUG - click point - (698.0, 92.5) 
+02/06/2016 10:00:57 AM - ui_routines - INFO - Bundle Id - com.apple.appstore is opened now
+02/06/2016 10:01:27 AM - app_store - INFO - Clicking Featured icon in the app store
+02/06/2016 10:01:28 AM - ui_routines - DEBUG - click point - (770.0, 92.5) 
+02/06/2016 10:01:35 AM - start_automation - DEBUG - Result after execution - 
+ {   662249: {   'result': 1,
+                'tc_desc': '1. Open App Store program\n2. Wait 30 seconds\n3. Close App Store Program\n4. Check any crashes found'},
+    662250: {   'result': 1,
+                'tc_desc': '1. Open App Store program\n2. Click Featured icon\n3. Make sure page loads\n4. Close the App Store program'},
+    662251: {   'result': 1,
+                'tc_desc': '2. Open App Store program\n2. Click Top Charts icon\n3. Make sure page loads\n4. Close the App Store program'},
+    662252: {   'result': 1,
+                'tc_desc': '3. Open App Store program\n2. Click Categories icon\n3. Make sure page loads\n4. Close the App Store program'},
+    662253: {   'result': 1,
+                'tc_desc': '4. Open App Store program\n2. Click Purchased icon\n3. Make sure page loads\n4. Close the App Store program'},
+    662254: {   'result': 1,
+                'tc_desc': '5. Open App Store program\n2. Search some app name in search bar\n3. Make sure page loads\n4. Close the App Store program'}} 
+02/06/2016 10:01:35 AM - os_utils - INFO - file found - /Volumes/HDD/PycharmProjects/mac_osx_desktop_application_automator/data/result/app_store_ui_test.xlsx 
+02/06/2016 10:20:43 AM - ui_routines - INFO - Bundle Id - com.apple.appstore is opened now
+02/06/2016 10:20:48 AM - app_store - INFO - search in app store
+02/06/2016 10:20:49 AM - ui_routines - DEBUG - click point - (1038.0, 100.5) 
+02/06/2016 10:21:33 AM - ui_routines - INFO - Bundle Id - com.apple.appstore is opened now
+02/06/2016 10:21:38 AM - app_store - INFO - search in app store
+02/06/2016 10:21:39 AM - ui_routines - DEBUG - click point - (1038.0, 100.5) 
+02/06/2016 10:22:52 AM - ui_routines - INFO - Bundle Id - com.apple.appstore is opened now
+02/06/2016 10:22:57 AM - app_store - INFO - search in app store
+02/06/2016 10:22:58 AM - ui_routines - DEBUG - click point - (1038.0, 100.5) 
+02/06/2016 10:32:09 AM - ui_routines - INFO - Bundle Id - com.apple.appstore is opened now
+02/06/2016 10:32:14 AM - app_store - INFO - search in app store
+02/06/2016 10:32:15 AM - ui_routines - DEBUG - click point - (1038.0, 100.5) 
+02/06/2016 10:33:30 AM - ui_routines - INFO - Bundle Id - com.apple.appstore is opened now
+02/06/2016 10:33:35 AM - app_store - INFO - search in app store
+02/06/2016 10:33:36 AM - ui_routines - DEBUG - click point - (1038.0, 100.5) 
+02/06/2016 11:48:21 AM - start_automation - INFO - 
+********************************************************************************
+
+02/06/2016 11:48:21 AM - start_automation - INFO - Starting main automation script
+02/06/2016 11:48:21 AM - os_utils - INFO - file found - /Volumes/HDD/PycharmProjects/mac_osx_desktop_application_automator/data/configurations/app_store_ui_test.json 
+02/06/2016 11:48:21 AM - start_automation - DEBUG - config_data 
+ {   u'test_case_xl': u'app_store_ui_test.xlsx', u'test_cases': u'app_store.py'}
+02/06/2016 11:48:21 AM - os_utils - INFO - file found - /Volumes/HDD/PycharmProjects/mac_osx_desktop_application_automator/data/test_case_xl/app_store_ui_test.xlsx 
+02/06/2016 11:48:21 AM - start_automation - DEBUG - Test cases = 
+ {   662249: {   'result': '',
+                'tc_desc': '1. Open App Store program\n2. Wait 30 seconds\n3. Close App Store Program\n4. Check any crashes found'},
+    662250: {   'result': '',
+                'tc_desc': '1. Open App Store program\n2. Click Featured icon\n3. Make sure page loads\n4. Close the App Store program'},
+    662251: {   'result': '',
+                'tc_desc': '2. Open App Store program\n2. Click Top Charts icon\n3. Make sure page loads\n4. Close the App Store program'},
+    662252: {   'result': '',
+                'tc_desc': '3. Open App Store program\n2. Click Categories icon\n3. Make sure page loads\n4. Close the App Store program'},
+    662253: {   'result': '',
+                'tc_desc': '4. Open App Store program\n2. Click Purchased icon\n3. Make sure page loads\n4. Close the App Store program'},
+    662254: {   'result': '',
+                'tc_desc': '5. Open App Store program\n2. Search some app name in search bar\n3. Make sure page loads\n4. Close the App Store program'}}
+02/06/2016 11:48:21 AM - start_automation - INFO - copying the test cases excel file to result path 
+02/06/2016 11:48:27 AM - ui_routines - INFO - Bundle Id - com.apple.appstore is opened now
+02/06/2016 11:48:57 AM - app_store - INFO - looking for crash after opening apps
+02/06/2016 11:48:57 AM - os_utils - DEBUG - crash files - ['appstore.crash'] 
+02/06/2016 11:48:57 AM - os_utils - INFO - App crash files - ['appstore.crash'] 
+02/06/2016 11:49:04 AM - ui_routines - INFO - Bundle Id - com.apple.appstore is opened now
+02/06/2016 11:49:09 AM - app_store - INFO - Clicking Featured icon in the app store
+02/06/2016 11:51:07 AM - start_automation - INFO - 
+********************************************************************************
+
+02/06/2016 11:51:07 AM - start_automation - INFO - Starting main automation script
+02/06/2016 11:51:07 AM - os_utils - INFO - file found - /Volumes/HDD/PycharmProjects/mac_osx_desktop_application_automator/data/configurations/app_store_ui_test.json 
+02/06/2016 11:51:07 AM - start_automation - DEBUG - config_data 
+ {   u'test_case_xl': u'app_store_ui_test.xlsx', u'test_cases': u'app_store.py'}
+02/06/2016 11:51:07 AM - os_utils - INFO - file found - /Volumes/HDD/PycharmProjects/mac_osx_desktop_application_automator/data/test_case_xl/app_store_ui_test.xlsx 
+02/06/2016 11:51:07 AM - start_automation - DEBUG - Test cases = 
+ {   662249: {   'result': '',
+                'tc_desc': '1. Open App Store program\n2. Wait 30 seconds\n3. Close App Store Program\n4. Check any crashes found'},
+    662250: {   'result': '',
+                'tc_desc': '1. Open App Store program\n2. Click Featured icon\n3. Make sure page loads\n4. Close the App Store program'},
+    662251: {   'result': '',
+                'tc_desc': '2. Open App Store program\n2. Click Top Charts icon\n3. Make sure page loads\n4. Close the App Store program'},
+    662252: {   'result': '',
+                'tc_desc': '3. Open App Store program\n2. Click Categories icon\n3. Make sure page loads\n4. Close the App Store program'},
+    662253: {   'result': '',
+                'tc_desc': '4. Open App Store program\n2. Click Purchased icon\n3. Make sure page loads\n4. Close the App Store program'},
+    662254: {   'result': '',
+                'tc_desc': '5. Open App Store program\n2. Search some app name in search bar\n3. Make sure page loads\n4. Close the App Store program'}}
+02/06/2016 11:51:07 AM - start_automation - INFO - copying the test cases excel file to result path 
+02/06/2016 11:51:13 AM - ui_routines - INFO - Bundle Id - com.apple.appstore is opened now
+02/06/2016 11:51:43 AM - app_store - INFO - looking for crash after opening apps
+02/06/2016 11:51:43 AM - os_utils - DEBUG - crash files - ['appstore.crash'] 
+02/06/2016 11:51:43 AM - os_utils - INFO - App crash files - ['appstore.crash'] 
+02/06/2016 11:51:50 AM - ui_routines - INFO - Bundle Id - com.apple.appstore is opened now
+02/06/2016 11:51:55 AM - app_store - INFO - Clicking Featured icon in the app store
+02/06/2016 11:51:58 AM - app_store - INFO - No clicking object found
+02/06/2016 11:52:05 AM - ui_routines - INFO - Bundle Id - com.apple.appstore is opened now
+02/06/2016 11:52:10 AM - app_store - INFO - Clicking Featured icon in the app store
+02/06/2016 11:52:11 AM - app_store - INFO - No clicking object found
+02/06/2016 11:52:18 AM - ui_routines - INFO - Bundle Id - com.apple.appstore is opened now
+02/06/2016 11:52:23 AM - app_store - INFO - Clicking Featured icon in the app store
+02/06/2016 11:52:26 AM - ui_routines - DEBUG - click point - (621.0, 92.5) 
+02/06/2016 11:52:38 AM - ui_routines - INFO - Bundle Id - com.apple.appstore is opened now
+02/06/2016 11:52:43 AM - app_store - INFO - Clicking Featured icon in the app store
+02/06/2016 11:52:44 AM - ui_routines - DEBUG - click point - (698.0, 92.5) 
+02/06/2016 11:52:56 AM - ui_routines - INFO - Bundle Id - com.apple.appstore is opened now
+02/06/2016 11:53:01 AM - app_store - INFO - search in app store
+02/06/2016 11:53:02 AM - ui_routines - DEBUG - click point - (1038.0, 100.5) 
+02/06/2016 11:53:19 AM - start_automation - DEBUG - Result after execution - 
+ {   662249: {   'result': 1,
+                'tc_desc': '1. Open App Store program\n2. Wait 30 seconds\n3. Close App Store Program\n4. Check any crashes found'},
+    662250: {   'result': 1,
+                'tc_desc': '1. Open App Store program\n2. Click Featured icon\n3. Make sure page loads\n4. Close the App Store program'},
+    662251: {   'result': 1,
+                'tc_desc': '2. Open App Store program\n2. Click Top Charts icon\n3. Make sure page loads\n4. Close the App Store program'},
+    662252: {   'result': 1,
+                'tc_desc': '3. Open App Store program\n2. Click Categories icon\n3. Make sure page loads\n4. Close the App Store program'},
+    662253: {   'result': 1,
+                'tc_desc': '4. Open App Store program\n2. Click Purchased icon\n3. Make sure page loads\n4. Close the App Store program'},
+    662254: {   'result': 1,
+                'tc_desc': '5. Open App Store program\n2. Search some app name in search bar\n3. Make sure page loads\n4. Close the App Store program'}} 
+02/06/2016 11:53:19 AM - os_utils - INFO - file found - /Volumes/HDD/PycharmProjects/mac_osx_desktop_application_automator/data/result/app_store_ui_test.xlsx 
+02/06/2016 11:57:35 AM - start_automation - INFO - 
+********************************************************************************
+
+02/06/2016 11:57:35 AM - start_automation - INFO - Starting main automation script
+02/06/2016 11:57:35 AM - os_utils - INFO - file found - /Volumes/HDD/PycharmProjects/mac_osx_desktop_application_automator/data/configurations/app_store_ui_test.json 
+02/06/2016 11:57:35 AM - start_automation - DEBUG - config_data 
+ {   u'test_case_xl': u'app_store_ui_test.xlsx', u'test_cases': u'app_store.py'}
+02/06/2016 11:57:35 AM - os_utils - INFO - file found - /Volumes/HDD/PycharmProjects/mac_osx_desktop_application_automator/data/test_case_xl/app_store_ui_test.xlsx 
+02/06/2016 11:57:35 AM - start_automation - DEBUG - Test cases = 
+ {   662249: {   'result': '',
+                'tc_desc': '1. Open App Store program\n2. Wait 30 seconds\n3. Close App Store Program\n4. Check any crashes found'},
+    662250: {   'result': '',
+                'tc_desc': '1. Open App Store program\n2. Click Featured icon\n3. Make sure page loads\n4. Close the App Store program'},
+    662251: {   'result': '',
+                'tc_desc': '2. Open App Store program\n2. Click Top Charts icon\n3. Make sure page loads\n4. Close the App Store program'},
+    662252: {   'result': '',
+                'tc_desc': '3. Open App Store program\n2. Click Categories icon\n3. Make sure page loads\n4. Close the App Store program'},
+    662253: {   'result': '',
+                'tc_desc': '4. Open App Store program\n2. Click Purchased icon\n3. Make sure page loads\n4. Close the App Store program'},
+    662254: {   'result': '',
+                'tc_desc': '5. Open App Store program\n2. Search some app name in search bar\n3. Make sure page loads\n4. Close the App Store program'}}
+02/06/2016 11:57:35 AM - start_automation - INFO - copying the test cases excel file to result path 
+02/06/2016 11:57:40 AM - ui_routines - INFO - Bundle Id - com.apple.appstore is opened now
+02/06/2016 11:58:10 AM - app_store - INFO - looking for crash after opening apps
+02/06/2016 11:58:10 AM - os_utils - DEBUG - crash files - ['appstore.crash'] 
+02/06/2016 11:58:10 AM - os_utils - INFO - App crash files - ['appstore.crash'] 
+02/06/2016 11:58:27 AM - ui_routines - INFO - Bundle Id - com.apple.appstore is opened now
+02/06/2016 11:58:32 AM - app_store - INFO - Clicking Featured icon in the app store
+02/06/2016 11:58:33 AM - app_store - INFO - No clicking object found
+02/06/2016 11:58:50 AM - ui_routines - INFO - Bundle Id - com.apple.appstore is opened now
+02/06/2016 11:58:55 AM - app_store - INFO - Clicking Featured icon in the app store
+02/06/2016 11:58:56 AM - app_store - INFO - No clicking object found
+02/06/2016 11:59:13 AM - ui_routines - INFO - Bundle Id - com.apple.appstore is opened now
+02/06/2016 11:59:18 AM - app_store - INFO - Clicking Featured icon in the app store
+02/06/2016 12:00:14 PM - start_automation - INFO - 
+********************************************************************************
+
+02/06/2016 12:00:14 PM - start_automation - INFO - Starting main automation script
+02/06/2016 12:00:14 PM - os_utils - INFO - file found - /Volumes/HDD/PycharmProjects/mac_osx_desktop_application_automator/data/configurations/app_store_ui_test.json 
+02/06/2016 12:00:14 PM - start_automation - DEBUG - config_data 
+ {   u'test_case_xl': u'app_store_ui_test.xlsx', u'test_cases': u'app_store.py'}
+02/06/2016 12:00:14 PM - os_utils - INFO - file found - /Volumes/HDD/PycharmProjects/mac_osx_desktop_application_automator/data/test_case_xl/app_store_ui_test.xlsx 
+02/06/2016 12:00:14 PM - start_automation - DEBUG - Test cases = 
+ {   662249: {   'result': '',
+                'tc_desc': '1. Open App Store program\n2. Wait 30 seconds\n3. Close App Store Program\n4. Check any crashes found'},
+    662250: {   'result': '',
+                'tc_desc': '1. Open App Store program\n2. Click Featured icon\n3. Make sure page loads\n4. Close the App Store program'},
+    662251: {   'result': '',
+                'tc_desc': '2. Open App Store program\n2. Click Top Charts icon\n3. Make sure page loads\n4. Close the App Store program'},
+    662252: {   'result': '',
+                'tc_desc': '3. Open App Store program\n2. Click Categories icon\n3. Make sure page loads\n4. Close the App Store program'},
+    662253: {   'result': '',
+                'tc_desc': '4. Open App Store program\n2. Click Purchased icon\n3. Make sure page loads\n4. Close the App Store program'},
+    662254: {   'result': '',
+                'tc_desc': '5. Open App Store program\n2. Search some app name in search bar\n3. Make sure page loads\n4. Close the App Store program'}}
+02/06/2016 12:00:14 PM - start_automation - INFO - copying the test cases excel file to result path 
+02/06/2016 12:00:19 PM - ui_routines - INFO - Bundle Id - com.apple.appstore is opened now
+02/06/2016 12:00:49 PM - app_store - INFO - looking for crash after opening apps
+02/06/2016 12:00:49 PM - os_utils - DEBUG - crash files - ['appstore.crash'] 
+02/06/2016 12:00:49 PM - os_utils - INFO - App crash files - ['appstore.crash'] 
+02/06/2016 12:01:06 PM - ui_routines - INFO - Bundle Id - com.apple.appstore is opened now
+02/06/2016 12:01:11 PM - app_store - INFO - Clicking Featured icon in the app store
+02/06/2016 12:01:12 PM - app_store - INFO - No clicking object found
+02/06/2016 12:01:29 PM - ui_routines - INFO - Bundle Id - com.apple.appstore is opened now
+02/06/2016 12:01:34 PM - app_store - INFO - Clicking Featured icon in the app store
+02/06/2016 12:01:35 PM - app_store - INFO - No clicking object found
+02/06/2016 12:01:52 PM - ui_routines - INFO - Bundle Id - com.apple.appstore is opened now
+02/06/2016 12:01:57 PM - app_store - INFO - Clicking Featured icon in the app store
+02/06/2016 12:01:58 PM - ui_routines - DEBUG - click point - (621.0, 92.5) 
+02/06/2016 12:02:21 PM - ui_routines - INFO - Bundle Id - com.apple.appstore is opened now
+02/06/2016 12:02:26 PM - app_store - INFO - Clicking Featured icon in the app store
+02/06/2016 12:02:27 PM - ui_routines - DEBUG - click point - (698.0, 92.5) 
+02/06/2016 12:02:49 PM - ui_routines - INFO - Bundle Id - com.apple.appstore is opened now
+02/06/2016 12:02:54 PM - app_store - INFO - search in app store
+02/06/2016 12:02:55 PM - ui_routines - DEBUG - click point - (1038.0, 100.5) 
+02/06/2016 12:03:37 PM - start_automation - DEBUG - Result after execution - 
+ {   662249: {   'result': 1,
+                'tc_desc': '1. Open App Store program\n2. Wait 30 seconds\n3. Close App Store Program\n4. Check any crashes found'},
+    662250: {   'result': 1,
+                'tc_desc': '1. Open App Store program\n2. Click Featured icon\n3. Make sure page loads\n4. Close the App Store program'},
+    662251: {   'result': 0,
+                'tc_desc': '2. Open App Store program\n2. Click Top Charts icon\n3. Make sure page loads\n4. Close the App Store program'},
+    662252: {   'result': 1,
+                'tc_desc': '3. Open App Store program\n2. Click Categories icon\n3. Make sure page loads\n4. Close the App Store program'},
+    662253: {   'result': -1,
+                'tc_desc': '4. Open App Store program\n2. Click Purchased icon\n3. Make sure page loads\n4. Close the App Store program'},
+    662254: {   'result': 1,
+                'tc_desc': '5. Open App Store program\n2. Search some app name in search bar\n3. Make sure page loads\n4. Close the App Store program'}} 
+02/06/2016 12:03:37 PM - os_utils - INFO - file found - /Volumes/HDD/PycharmProjects/mac_osx_desktop_application_automator/data/result/app_store_ui_test.xlsx 
