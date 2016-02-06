@@ -6,7 +6,7 @@ http://vijay-anand-pandian.blogspot.in/2015/03/simple-automation-using-python-at
 This framework is written to automate the mac os x client side applications.
 Especially for UI testing and validation.
 
-I have used the atomac python library for automating this stuff.
+I have used the atomac (https://github.com/pyatom/pyatom) python library for automating this stuff. 
 
 TO-DO
 =====
