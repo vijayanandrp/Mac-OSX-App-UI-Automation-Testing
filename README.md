@@ -14,6 +14,14 @@ TO-DO
 2. Install the dependencies in your machine like atomac and openpyxl
 3. Make sure you have give the accessibility permissions to run the application (/data/snaps)
 
+	Usage:
+	========
+			python cli_automation.py -h
+			python cli_automation.py --help
+			python cli_automation.py -c app_store_ui_test.json
+			python cli_automation.py --config app_store_ui_test.json
+			Note:
+			ui_test_json file should be configured early in the path /data/configurations/
 
 Configurations
 ==============
